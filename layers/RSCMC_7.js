@@ -1,0 +1,1 @@
+var json_RSCMC_7 = {"type":"FeatureCollection","name":"RSCMC_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"RS":"RS CMC","FOTO":null,"Foto_1":"foto objek/cmc.jpg"},"geometry":{"type":"Point","coordinates":[104.914805003386746,-4.851173999083242]}}]}

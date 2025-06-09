@@ -1,0 +1,1 @@
+var json_RSYUSUF_8 = {"type":"FeatureCollection","name":"RSYUSUF_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"RS":"RS YUSUF","FOTO":null,"Foto_1":"foto objek/24-jun-RS-Yusuf.png"},"geometry":{"type":"Point","coordinates":[104.963310314242904,-4.874782865496892]}}]}
